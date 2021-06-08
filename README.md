@@ -42,6 +42,7 @@ updates in his /her portal etc.
 - It provides a high level of security with different levels of authentication.
 
 ## 👨🏽‍💻Software Requirements:
+
 - Operating System: Windows 10
 - Front End: PHP, CSS, JS 
 - Back End: PHP 8.0.3, MySQL
@@ -50,7 +51,9 @@ updates in his /her portal etc.
 - Code Editor: Visual Studio Code
 - Web server: Apache HTTP Server 2.2. Included in XAMPP Windows.
 - Database Server: MySQL Server 5.0. Included in XAMPP Windows.
+
 ## 👨🏽‍💻Hardware Requirements:
+
 - Processor: Pentium Dual Core.
 - Hard Disk: 10GB
 - Ram: 1GB.
